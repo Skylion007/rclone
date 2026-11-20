@@ -1,0 +1,19 @@
+backend: modal
+name: Modal Volume
+tier: Tier 4
+maintainers: External
+features_score: 2
+integration_tests: Disabled
+data_integrity: Other
+performance: Unknown
+adoption: Some use
+docs: Full
+security: High
+virtual: false
+remote: null
+features:
+- ListR
+- NoMultiThreading
+- PutStream
+hashes: []
+precision: 1000000000

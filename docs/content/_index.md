@@ -186,6 +186,7 @@ WebDAV or S3, that work out of the box.)
 {{< provider name="Microsoft Azure Files Storage" home="https://azure.microsoft.com/en-us/services/storage/files/" config="/azurefiles/" >}}
 {{< provider name="Microsoft OneDrive" home="https://onedrive.live.com/" config="/onedrive/" >}}
 {{< provider name="Minio" home="https://www.minio.io/" config="/s3/#minio" >}}
+{{< provider name="Modal Volume" home="https://modal.com/docs/guide/volumes" config="/modal/" >}}
 {{< provider name="Neon Object Storage" home="https://neon.com/docs/storage/overview" config="/s3/#neon" >}}
 {{< provider name="Nextcloud" home="https://nextcloud.com/" config="/webdav/#nextcloud" >}}
 {{< provider name="Blomp Cloud Storage" home="https://rclone.org/swift/" config="/swift/" >}}
